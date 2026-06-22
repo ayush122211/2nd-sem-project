@@ -4,7 +4,7 @@ function Footer() {
       <h3>Amazon Clone</h3>
 
       <p>
-        Ayushman Shukla - II sem Web Project.
+        Ayush Pandey - II sem Web Project.
       </p>
     </footer>
   );
